@@ -1,0 +1,28 @@
+body{
+    max-width: 1024px;
+    font-family: sans-serif;
+    text-align:center;
+}
+
+pre.code{
+    margin-top: 0;
+    display:inline-block;
+    text-align: left;
+}
+
+ul{
+    max-width:300px;
+    margin-top: 0;
+    margin-bottom: 0;
+    display:inline-block;
+    text-align: left;
+}
+
+li{
+    text-align: left;
+}
+
+img {
+    width: 420px;
+    height: 265px;
+}
