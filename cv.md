@@ -16,4 +16,14 @@ Levchenko Stas
 ```
 a=process.argv.slice(2);s=x=>x.split('').sort().join('');l=x=>x.length;b=a.map(x=>a.filter(y=>s(x)==s(y)));if(l(b))b[b.reduce((i,r)=>l(r)>l(b[i])?i+1:i,0)].forEach(x=>console.log(x))
 ```
+## Experience
 
+
+## Education
+
+Graduated from the * Sports School *, I study at the * BNTU * at the Faculty of Information Technology and Robotics *. 
+Studied at Diskill School of 3D Interior Visualization.
+
+## English
+
+Pre-intermediate (А2).
